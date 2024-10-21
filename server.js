@@ -8,7 +8,7 @@ const { Recipe } = require('./Models/recipesModels');
 
 
 
-const products = [{ 'id': 1, 'name': 'laptop', 'price': 3000 }]
+const products = [{ 'id': 2, 'name': 'laptop', 'price': 3000 }]
 
 const port = process.env.PORT
 
